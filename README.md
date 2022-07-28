@@ -38,18 +38,18 @@ SSR is an abbreviation server side Rendering, Sever-side is the system that runs
 CSR  is an abbreviation clint side Rendering, the client-side is the software that runs on a user's web browser.
 
 #### give 2 advantages and 2 disadvantages of SPA ?
-advantages:
+###### advantages:
 - Speed and responsiveness
 - Mobile-friendliness
-disadvantages:
+###### disadvantages:
 - SPAs aren’t scalable
 - SPAs are at a greater security risk
 
 #### give 2 advantages and 2 disadvantages  of MAP
-advantages:
+###### advantages:
 - MPAs are great for SEO
 - MPAs are easily scalable
-disadvantages:
+###### disadvantages:
 - Complex development and testing
 - Slower performance
-- 
+ 

@@ -56,11 +56,12 @@ CSR  is an abbreviation clint side Rendering, the client-side is the software th
  #### what is framework ?
  The framework is basic structure underlying a system, and It provides basic support for the structure being built.
  #### What is the FE framework (frontend) ?
+ It provides a basis for development while still enabling flexibility with the final design
+ #### give 3 FE frameworks example ?
  - React Framework
  - Angular Framework
  - Vue.js Framework
  - Ember.js
 List Of the Best frontend framework 
-
  ![List-of-10-Best-Front-end-Frameworks](https://user-images.githubusercontent.com/52491098/181522882-b3f6e4ff-1cc2-4d20-8fda-aef698d7e7e7.jpg)
 

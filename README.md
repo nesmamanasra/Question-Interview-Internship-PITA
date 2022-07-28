@@ -66,4 +66,4 @@ CSR  is an abbreviation clint side Rendering, the client-side is the software th
  ![List-of-10-Best-Front-end-Frameworks](https://user-images.githubusercontent.com/52491098/181522882-b3f6e4ff-1cc2-4d20-8fda-aef698d7e7e7.jpg)
 
 #### Resource 
-https://www.thirdrocktechkno.com/blog/single-page-apps-vs-multi-page-apps-what-to-choose-for-web-development/#:~:text=As%20the%20name%20suggests%2C%20a,large%20data%20and%20complex%20architecture.
+

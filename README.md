@@ -65,6 +65,8 @@ CSR  is an abbreviation clint side Rendering, the client-side is the software th
 ###### List Of the Best frontend framework 
  ![List-of-10-Best-Front-end-Frameworks](https://user-images.githubusercontent.com/52491098/181522882-b3f6e4ff-1cc2-4d20-8fda-aef698d7e7e7.jpg)
 #### what is angular ?
-
+A development platform based on TypeScript which is a component-based framework for creating scalable web applications.
+#### What is the anguler js ?
+is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML syntax to express your application's components clearly and succinctly.
 ### Resource :
 

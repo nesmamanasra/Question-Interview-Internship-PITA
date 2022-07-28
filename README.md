@@ -33,4 +33,23 @@ MPA is an abbreviation multi page application, MPA works in a traditional way, r
 ![spavsmpa](https://user-images.githubusercontent.com/52491098/181517026-6a0b0ded-0b36-4dea-846a-b2318ab9272b.PNG)
 
 #### what is SSR ?
-SSR is an abbreviation server side Rendering
+SSR is an abbreviation server side Rendering, Sever-side is the system that runs on the server.
+#### what is CSR ?
+CSR  is an abbreviation clint side Rendering, the client-side is the software that runs on a user's web browser.
+
+#### give 2 advantages and 2 disadvantages of SPA ?
+advantages:
+- Speed and responsiveness
+- Mobile-friendliness
+disadvantages:
+- SPAs aren’t scalable
+- SPAs are at a greater security risk
+
+#### give 2 advantages and 2 disadvantages  of MAP
+advantages:
+- MPAs are great for SEO
+- MPAs are easily scalable
+disadvantages:
+- Complex development and testing
+- Slower performance
+- 
